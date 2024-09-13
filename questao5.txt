@@ -1,0 +1,1 @@
+Minha solução seria acender um interruptor e ver qual lâmpada acendeu, depois ligaria um segundo interruptor e ver qual lâmpada acenderia. O terceiro interruptor acenderá a lâmpada que não foi acesa por nenhum outro interruptor.
